@@ -1,0 +1,19 @@
+{
+  "name": "thapatechnical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanc1248/thapaTechnical.git"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanc1248/thapaTechnical/issues"
+  },
+  "homepage": "https://github.com/amanc1248/thapaTechnical#readme"
+}
